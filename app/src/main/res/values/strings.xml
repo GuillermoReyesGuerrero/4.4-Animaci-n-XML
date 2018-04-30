@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EjemploAnimateXML</string>
+    <string name="animate">Animate</string>
+    <string name="rotate">Rotate</string>
+    <string name="slidedown">Slideown</string>
+    <string name="bounce">Bounce</string>
+</resources>
